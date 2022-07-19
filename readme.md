@@ -1,4 +1,4 @@
-# Olá GitHub!
+# Pintei a casa de vermelho
 
 Estamos aprendendo a amexer em repósitórios remotos!
 
